@@ -1,0 +1,21 @@
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\Working Add-ins\Parts Order Instruction\Parts Order Instruction\bin\Debug\Parts Order Instruction.dll.config
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\Working Add-ins\Parts Order Instruction\Parts Order Instruction\bin\Debug\Parts Order Instruction.dll
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\Working Add-ins\Parts Order Instruction\Parts Order Instruction\bin\Debug\Parts Order Instruction.pdb
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\Working Add-ins\Parts Order Instruction\Parts Order Instruction\bin\Debug\RightNow.AddIns.AddInViews.dll
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\Working Add-ins\Parts Order Instruction\Parts Order Instruction\bin\Debug\RightNow.AddIns.AddInViews.xml
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\Working Add-ins\Parts Order Instruction\Parts Order Instruction\obj\Debug\Parts Order Instruction.csprojResolveAssemblyReference.cache
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\Working Add-ins\Parts Order Instruction\Parts Order Instruction\obj\Debug\Parts_Order_Instruction.ProgressForm.resources
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\Working Add-ins\Parts Order Instruction\Parts Order Instruction\obj\Debug\Parts_Order_Instruction.Properties.Resources.resources
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\Working Add-ins\Parts Order Instruction\Parts Order Instruction\obj\Debug\Parts Order Instruction.csproj.GenerateResource.Cache
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\Working Add-ins\Parts Order Instruction\Parts Order Instruction\obj\Debug\Parts Order Instruction.dll
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\Working Add-ins\Parts Order Instruction\Parts Order Instruction\obj\Debug\Parts Order Instruction.pdb
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Order Instruction\Parts Order Instruction\bin\Debug\Parts Order Instruction.dll.config
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Order Instruction\Parts Order Instruction\bin\Debug\Parts Order Instruction.dll
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Order Instruction\Parts Order Instruction\bin\Debug\Parts Order Instruction.pdb
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Order Instruction\Parts Order Instruction\bin\Debug\RightNow.AddIns.AddInViews.dll
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Order Instruction\Parts Order Instruction\bin\Debug\RightNow.AddIns.AddInViews.xml
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Order Instruction\Parts Order Instruction\obj\Debug\Parts_Order_Instruction.ProgressForm.resources
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Order Instruction\Parts Order Instruction\obj\Debug\Parts_Order_Instruction.Properties.Resources.resources
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Order Instruction\Parts Order Instruction\obj\Debug\Parts Order Instruction.csproj.GenerateResource.Cache
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Order Instruction\Parts Order Instruction\obj\Debug\Parts Order Instruction.dll
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Order Instruction\Parts Order Instruction\obj\Debug\Parts Order Instruction.pdb
